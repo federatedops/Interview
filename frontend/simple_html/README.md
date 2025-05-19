@@ -22,11 +22,15 @@ Hints:
 ## Level Three
 #### You could go multiple ways here. You could consume our example API to generate sites, or create reusable components using whatever tool you want. Or, you could do both :)
 
-### Store Locator
-- Joe's auto parts has 10000 locations. Render a new site for each location, id 1-10000
+### Generate Sites
+- Joe's auto parts has 10000 partner locations. Render a new site for each location, id 1-10000
 - Python API available
   - GET https://interview-api.dev.groupvan.com/listJoesLocations
   - GET https://interview-api.dev.groupvan.com/joesLocations?id=ID_HERE
+ 
+### Components
+- Use reusable components to make this site into something nice and modular (hint, this goes well with generate sites)
+- Bonus points for keeping it vanilla.
 
 ### Level Four
 
