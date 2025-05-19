@@ -11,13 +11,20 @@
 
 ## Level Two
 
+### Two Stores
+
 - Joe's auto parts has two locations - 1120 Jon Ave, Courage, AK 99991
 - Image3 is location 2
 
 ## Level Three
+
+### Store Locator
 - Joe's auto parts has 10000 locations
 - Python API available - GET https://interview-api.dev.groupvan.com/joesLocations
 
-## Level Four
+### Level Four
+
+### Nearby search
+
 - Find other locations nearby with google location search
 
