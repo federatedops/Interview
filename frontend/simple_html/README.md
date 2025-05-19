@@ -23,7 +23,9 @@ Hints:
 
 ### Store Locator
 - Joe's auto parts has 10000 locations. Render a new site for each location, id 1-10000
-- Python API available - GET https://interview-api.dev.groupvan.com/listJoesLocations?id=ID_HERE  GET https://interview-api.dev.groupvan.com/joesLocations?id=ID_HERE
+- Python API available
+  - GET https://interview-api.dev.groupvan.com/listJoesLocations
+  - GET https://interview-api.dev.groupvan.com/joesLocations?id=ID_HERE
 
 ### Level Four
 
