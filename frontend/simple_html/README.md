@@ -16,7 +16,8 @@ Hints:
 
 ### Two Stores
 
-- Joe's auto parts has two locations - 1120 Jon Ave, Courage, AK 99991
+- Joe's auto parts has two locations - 1120 Jon Ave, Courage, AK 99991 
+- Phone for second location +999-555-1414
 - Image3 is location 2
 
 ## Level Three
