@@ -20,6 +20,7 @@ Hints:
 - Image3 is location 2
 
 ## Level Three
+#### You could go multiple ways here. You could consume our example API to generate sites, or create reusable components using whatever tool you want. Or, you could do both :)
 
 ### Store Locator
 - Joe's auto parts has 10000 locations. Render a new site for each location, id 1-10000
