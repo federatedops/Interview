@@ -28,6 +28,7 @@ Hints:
 - Python API available
   - GET https://interview-api.dev.groupvan.com/listJoesLocations
   - GET https://interview-api.dev.groupvan.com/joesLocations?id=ID_HERE
+  Site directory is useful...
  
 ### Components
 - Use reusable components to make this site into something nice and modular (hint, this goes well with generate sites)
