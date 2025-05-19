@@ -1,6 +1,9 @@
 # Simple HTML Website Challenge
 
-### Given a starting point "index.html", create a website for Joe's auto parts.
+### Given a starting point "index.html", create a responsive website for Joe's auto parts.
+
+Hints:
+< 600px is scaled size. Flexbox is nice.
 
 ## Level One
 
@@ -19,8 +22,8 @@
 ## Level Three
 
 ### Store Locator
-- Joe's auto parts has 10000 locations
-- Python API available - GET https://interview-api.dev.groupvan.com/joesLocations
+- Joe's auto parts has 10000 locations. Render a new site for each location, id 1-10000
+- Python API available - GET https://interview-api.dev.groupvan.com/listJoesLocations?id=ID_HERE  GET https://interview-api.dev.groupvan.com/joesLocations?id=ID_HERE
 
 ### Level Four
 
