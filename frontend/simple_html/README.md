@@ -10,7 +10,7 @@ Hints:
 - Joe's auto parts is located at 5892 Main St, Springfield, AK 99999
 - Joe's auto parts is open from 7AM-5PM AKDT Monday-Friday, 9AM-12PM Saturday
 - Joe's auto parts phone number is +999-555-1313
-- Two images in img/ folder
+- Two images in img/ folder Image1 + Image2 are for this location.
 
 ## Level Two
 
