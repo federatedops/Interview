@@ -26,8 +26,8 @@ Hints:
 ### Generate Sites
 - Joe's auto parts has 10000 partner locations. Render a new site for each location, id 1-10000
 - Python API available
-  - GET https://interview-api.dev.groupvan.com/listJoesLocations
-  - GET https://interview-api.dev.groupvan.com/joesLocations?id=ID_HERE
+  - GET https://interview.dev.groupvan.com/listJoesLocations
+  - GET https://interview.dev.groupvan.com/joesLocations?locationId=ID_HERE
   
   Site directory is useful...
  
